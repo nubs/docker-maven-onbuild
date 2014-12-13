@@ -1,4 +1,4 @@
-FROM nubs/maven:latest
+FROM nubs/maven-build:latest
 
 MAINTAINER Spencer Rinehart <anubis@overthemonkey.com>
 
