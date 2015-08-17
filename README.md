@@ -27,6 +27,10 @@ To execute a command, you can simply:
 docker run -it --rm my-image ./run
 ```
 
+## License
+docker-maven-onbuild is licensed under the MIT license.  See
+[LICENSE](LICENSE) for the full license text.
+
 [java]: http://java.com/
 [maven]: https://maven.apache.org/
 [ONBUILD]: https://docs.docker.com/reference/builder/#onbuild
